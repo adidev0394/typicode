@@ -1,0 +1,212 @@
+[
+
+  {
+
+    "ptitle": "KIDGREASE",
+
+    "key": 0,
+
+    "id": "60e2e4b276f635e3f350a132",
+
+    "productImageUrl": "http://placehold.it/32x32",
+
+    "pharmacentralnum": "000",
+
+    "brand": "Aspirin",
+
+    "type": "product",
+
+    "filetype": "png",
+
+    "launchdate": "2018"
+
+  },
+
+
+
+  {
+
+    "ptitle": "XPLOR",
+
+    "key": 1,
+
+    "id": "60e2e4b289041c6f04c2f975",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/69B7230A1FEA8C03C1257D5F004FA1FA/$file/2014-9661-B.jpg",
+
+    "pharmacentralnum": "012",
+
+    "brand": "Bepanthen",
+
+    "type": "product",
+
+    "filetype": "png",
+
+    "launchdate": "2021"
+
+  },
+
+
+
+  {
+
+    "ptitle": "APEX",
+
+    "key": 2,
+
+    "id": "60e2e4b22b3267bc8680917f",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/29B6098DAB01CA11C1257AEC0038CDE6/$file/2006-9675-B.jpg",
+
+    "pharmacentralnum": "123",
+
+    "brand": "Bepanthol",
+
+    "type": "product",
+
+    "filetype": "png",
+
+    "launchdate": "2020"
+
+  },
+
+
+
+  {
+
+    "ptitle": "TALENDULA",
+
+    "key": 3,
+
+    "id": "60e2e4b2c8d6d675e0afcecb",
+
+    "productImageUrl": "http://placehold.it/32x32",
+
+    "pharmacentralnum": "321",
+
+    "brand": "Canesten",
+
+    "type": "product",
+
+    "filetype": "pdf",
+
+    "launchdate": "2019"
+
+  },
+
+
+
+  {
+
+    "ptitle": "EXOSPACE",
+
+    "key": 4,
+
+    "id": "60e2e4b2783c806bdbbf6392",
+
+    "productImageUrl": "http://placehold.it/32x32",
+
+    "pharmacentralnum": "541",
+
+    "brand": "Iberogast",
+
+    "type": "product",
+
+    "filetype": "pdf",
+
+    "launchdate": "2019"
+
+  },
+
+
+
+  {
+
+    "ptitle": "GEEKMOSIS",
+
+    "key": 5,
+
+    "id": "60e2e4b2e8c161224f7b8bed",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/C9C6C93A2A471360C12583F300328BCB/$file/2019-8701-258.jpg",
+
+    "pharmacentralnum": "657",
+
+    "brand": "Phytodolor",
+
+    "type": "product",
+
+    "filetype": "pdf",
+
+    "launchdate": "2020"
+
+  },
+
+  {
+
+    "ptitle": "PRINZIP",
+
+    "key": 6,
+
+    "id": "60e2e4b2e8c161224f7b8bed",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/C9C6C93A2A471360C12583F300328BCB/$file/2019-8701-258.jpg",
+
+    "pharmacentralnum": "657",
+
+    "brand": "Phytodolor",
+
+    "type": "product",
+
+    "filetype": "docx",
+
+    "launchdate": "2020"
+
+  },
+
+  {
+
+    "ptitle": "BEROGAST",
+
+    "key": 7,
+
+    "id": "60e2e4b2e8c161224f7b8bed",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/C9C6C93A2A471360C12583F300328BCB/$file/2019-8701-258.jpg",
+
+    "pharmacentralnum": "657",
+
+    "brand": "Talcid",
+
+    "type": "product",
+
+    "filetype": "docx",
+
+    "launchdate": "2019"
+
+  },
+
+  {
+
+    "ptitle": "Heritage",
+
+    "key": 8,
+
+    "id": "60e2e4b2e8c161224f7b8bed",
+
+    "productImageUrl": "https://media.bayer.com/baynews/baynews.nsf/id/C9C6C93A2A471360C12583F300328BCB/$file/2019-8701-258.jpg",
+
+    "pharmacentralnum": "657",
+
+    "brand": "Rennie",
+
+    "type": "product",
+
+    "filetype": "zip",
+
+    "launchdate": "2018"
+
+  }
+
+]
+
